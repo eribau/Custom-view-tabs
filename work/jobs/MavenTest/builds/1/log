@@ -1,0 +1,6 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /home/mycronic-praktikant/Dokument/jenkinsPlugin/custom-view-tabs/work/jobs/MavenTest/workspace
+Parsing POMs
+ERROR: No such file /home/mycronic-praktikant/Dokument/jenkinsPlugin/custom-view-tabs/work/jobs/MavenTest/workspace/pom.xml
+Perhaps you need to specify the correct POM file path in the project configuration?
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mFinished: FAILURE

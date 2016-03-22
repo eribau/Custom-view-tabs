@@ -1,0 +1,22 @@
+<!--
+<%@ attribute name="name" required="true" type="java.lang.String" %>
+<%@ attribute name="href" required="true" type="java.lang.String" %>
+<%@ attribute name="active" required="true" type="java.lang.Boolean" %>
+<%@ attribute name="title" required="false" type="java.lang.String" %>
+<%@ attribute name="colour" required="true" type="java.lang.String %>
+-->
+<?jelly escape-by-default='true'?>
+<j:jelly xmlns:j="jelly:core">
+  <div class="tab${active?' active':''}">
+    <j:choose>
+      <j:when test="${active}">
+        <input type="radio" id="tab-${tabBarId}-${tabIndex}" name="tab-group-${tabBarId}" checked="checked"/>
+      </j:when>
+      <j:otherwise>
+        <input type="radio" id="tab-${tabBarId}-${tabIndex}" name="tab-group-${tabBarId}"/>
+      </j:otherwise>
+    </j:choose>
+    <a href="${href}" class="${name.equals('+')?'addTab':''}" style="background-color:#${colour}">${name}</a>
+  </div>
+  <j:set scope="parent" var="tabIndex" value="${tabIndex+1}" />
+</j:jelly>

@@ -1,0 +1,33 @@
+Exploding /home/mycronic-praktikant/.m2/repository/org/jenkins-ci/main/jenkins-war/1.625.3/jenkins-war-1.625.3-war-for-test.jar into /home/mycronic-praktikant/Dokument/jenkinsPlugin/custom-view-tabs/target/jenkins-for-test
+Mar 17, 2016 11:21:19 AM org.mortbay.log.Slf4jLog info
+INFO: Logging to org.slf4j.impl.JDK14LoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+Mar 17, 2016 11:21:20 AM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Mar 17, 2016 11:21:20 AM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+Mar 17, 2016 11:21:20 AM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:48333
+Mar 17, 2016 11:21:20 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+Mar 17, 2016 11:21:28 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+Mar 17, 2016 11:21:29 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+Mar 17, 2016 11:21:29 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+Mar 17, 2016 11:21:29 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+Mar 17, 2016 11:21:33 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+Mar 17, 2016 11:21:36 AM org.jenkinsci.main.modules.sshd.SSHD start
+INFO: Started SSHD at port 59689
+Mar 17, 2016 11:21:36 AM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+Mar 17, 2016 11:21:36 AM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+Mar 17, 2016 11:21:36 AM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:42239
+Mar 17, 2016 11:21:39 AM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:48333
+WARN: The method class org.apache.commons.logging.impl.SLF4JLogFactory#release() was invoked.
+WARN: Please see http://www.slf4j.org/codes.html#release for an explanation.

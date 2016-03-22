@@ -1,0 +1,5 @@
+org/jenkinsci/plugins/customviewtabs/CustomViewsTabBar$CustomViewsTabBarDescriptor.class
+org/jenkinsci/plugins/customviewtabs/CustomViewsTabBar.stapler
+org/jenkinsci/plugins/customviewtabs/CustomViewsTabBar$1.class
+org/jenkinsci/plugins/customviewtabs/CustomViewsTabBar.class
+META-INF/annotations/hudson.Extension
